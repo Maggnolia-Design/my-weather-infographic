@@ -1,2 +1,2 @@
-# my-weathere-infographic
+# my-weather-infographic
  
